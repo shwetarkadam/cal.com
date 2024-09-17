@@ -3716,7 +3716,7 @@ __metadata:
     postcss: ^8.4.18
     tailwindcss: ^3.3.3
     typescript: ^4.9.4
-    vite: ^4.1.2
+    vite: ^4.5.5
     vite-plugin-environment: ^1.1.3
   languageName: unknown
   linkType: soft
@@ -3734,7 +3734,7 @@ __metadata:
     eslint: ^8.34.0
     npm-run-all: ^4.1.5
     typescript: ^4.9.4
-    vite: ^4.1.2
+    vite: ^4.5.5
   peerDependencies:
     react: ^18.2.0
     react-dom: ^18.2.0
@@ -3747,7 +3747,7 @@ __metadata:
   dependencies:
     "@calcom/embed-core": "workspace:*"
     typescript: ^4.9.4
-    vite: ^4.1.2
+    vite: ^4.5.5
   languageName: unknown
   linkType: soft
 
@@ -4421,7 +4421,7 @@ __metadata:
     storybook-react-i18next: ^2.0.9
     tailwindcss: ^3.3.3
     typescript: ^4.9.4
-    vite: ^4.1.2
+    vite: ^4.5.5
   languageName: unknown
   linkType: soft
 
@@ -41156,9 +41156,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^4.1.2":
-  version: 4.5.2
-  resolution: "vite@npm:4.5.2"
+"vite@npm:^4.5.5":
+  version: 4.5.5
+  resolution: "vite@npm:4.5.5"
   dependencies:
     esbuild: ^0.18.10
     fsevents: ~2.3.2
@@ -41192,7 +41192,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 9d1f84f703c2660aced34deee7f309278ed368880f66e9570ac115c793d91f7fffb80ab19c602b3c8bc1341fe23437d86a3fcca2a9ef82f7ef0cdac5a40d0c86
+  checksum: 300c5f39c83b22413dfdc84f72e9ba979bf4004e4d939409eea1470b116626294495b09e2bd73fae387a254b79988c8d54ceb281f9515120a0eda179c33b216e
   languageName: node
   linkType: hard
 
